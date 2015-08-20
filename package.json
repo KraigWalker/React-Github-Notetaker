@@ -1,0 +1,19 @@
+{
+  "name": "React-Github-Notetaker",
+  "version": "1.0.0",
+  "description": "A simple React app that allows you to view a Github user's profile and take some notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kraig Walker<kraig_walker@me.com",
+  "license": "MIT",
+  "dependencies": {
+    "react-router": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.22",
+    "babel-loader": "^5.3.2",
+    "webpack": "^1.11.0"
+  }
+}
